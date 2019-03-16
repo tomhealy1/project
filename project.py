@@ -1,2 +1,5 @@
 #HDip in Computer Science (Data Analysis)
-#Github check
+#Tom Healy
+import pandas as pd
+import numpy as nd
+
