@@ -3,21 +3,21 @@
 #Import packages needed
 import pandas as pd
 import numpy as np
-#Assign csv file to df
-df = pd.read_csv("iris.txt")
-#Print the columns names
-print(df.columns)
+#Assign txt file to df
 
-#print the descriptive stats
-y = df.describe()
+df = np.genfromtxt('iris.txt', delimiter=',')
 
-print(y)
+#We are going to show the mean of each column and print to screen
+meansl=np.mean(df[:,0]).round(3)
+print('The mean sepal length is',meansl)
 
-x = df.head()
-z = df.tail()
+meansw=np.mean(df[:,1]).round(3)
+print('The mean sepal width is',meansw)
 
-print(x)
-print(z)
+meanpl=np.mean(df[:,2]).round(3)
+print('The mean petal length is',meanpl)
+
+meanpw=np.mean(df[:,3]).round(3)
+print('The mean petal length is',meanpw)
 
 
-df.plot
