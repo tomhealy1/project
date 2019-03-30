@@ -4,7 +4,7 @@
 import pandas as pd
 import numpy as np
 #Assign csv file to df
-df = pd.read_csv("iris_csv.csv")
+df = pd.read_csv("iris.txt")
 #Print the columns names
 print(df.columns)
 
@@ -13,3 +13,11 @@ y = df.describe()
 
 print(y)
 
+x = df.head()
+z = df.tail()
+
+print(x)
+print(z)
+
+
+df.plot
