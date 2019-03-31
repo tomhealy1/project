@@ -14,22 +14,22 @@ print("Here what the first 20 items look like: ", data.head(20))
 
 #Check if the there are missing values
 
-print (data['Sepal Length'])
-print (data['Sepal Length'].isnull())
 
-print (data['Sepal Width'])
-print (data['Sepal Width'].isnull())
+data['Sepal Length'].isnull()
 
-print (data['Petal Length'])
-print (data['Petal Length'].isnull())
 
-print (data['Petal Width'])
-print (data['Petal Width'].isnull())
+data['Sepal Width'].isnull()
 
-print (data['Species'])
-print (data['Species'].isnull())
 
-print (data.isnull().sum())
+data['Petal Length'].isnull()
+
+
+data['Petal Width'].isnull()
+
+
+data['Species'].isnull()
+
+print ("Here is the number of missing values in the set :", data.isnull().sum())
 
 
 
