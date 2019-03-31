@@ -1,4 +1,5 @@
 #Using Pandas to do some description
+#https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b
 import pandas as pd 
 import numpy as np
 
