@@ -1,0 +1,36 @@
+#Adapted from Chris Albon https://chrisalbon.com/machine_learning/linear_regression/linear_regression_using_scikit-learn/
+#Load the libraries we will need
+from sklearn.linear_model import LinearRegression
+from sklearn.datasets import load_iris
+import warnings
+import numpy as np 
+import pandas as pd 
+
+#HE recommends to suppress the warnings 
+warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd")
+
+#Load the data
+iris = load_iris()
+X = iris.data
+y = iris.target
+
+
+
+#Create a linear regression
+regr = LinearRegression()
+#Fit the model
+model = regr.fit(X, y)
+#View the intercept
+model.intercept_
+#Print the intercept
+print(model.intercept_)
+
+#View the coeffients
+model.coef_
+
+print(model.coef_)
+
+
+
+
+
