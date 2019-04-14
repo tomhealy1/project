@@ -39,3 +39,5 @@ print('The min petal length is',minpl)
 minpw=np.min(df[:,3]).round(3)
 print('The min petal width is',minpw)
 print(' ')
+
+exit
