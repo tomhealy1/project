@@ -6,5 +6,5 @@ R.A. Fisher's Iris Dataset  [Fisher Iris Data Set](https://archive.ics.uci.edu/m
 
 The resulting analysis done by R.A. Fisher is performed on a dateset that was compiled by  Edgar Anderson in 1935. The iris were The data were  taken from the Gaspe Peninsula. The dataset is sometimes called the Anderson data set.
 
-![alt text](src="https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg")
+![alt text](https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg "Iris Pic")
 He also proposed the 
