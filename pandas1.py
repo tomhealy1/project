@@ -6,10 +6,18 @@ import numpy as np
 
 headings = ['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width', 'Species']
 data = pd.read_csv('iris.txt', sep=',', names=headings, header=None)
-print("Here is a read out of all your data: ", data)
+print("Here is a read out of all your data: \n", data)
+
+print()
+
 
 x = pd.Series([0,1,2,3])
-print("Here are the headline details of the set: ", x.describe())
+print("Here are the headline details of column 1: \n", x.describe(include=[0]))
+print("Here are the headline details of column 2: \n", x.describe(include=[1]))
+print("Here are the headline details of column 3: \n", x.describe(include=[2]))
+print("Here are the headline details of column 4: \n", x.describe(include=[3]))
+
+print("Here are the headline details of all the numeric columns: \n", x.describe())
 
 print("Here what the first 20 items look like: ", data.head(20))
 
@@ -30,7 +38,7 @@ data['Petal Width'].isnull()
 
 data['Species'].isnull()
 
-print ("Here is the number of missing values in the set :", data.isnull().sum())
+print ("Here is the number of missing values in the set:\n",data.isnull().sum())
 
 
 

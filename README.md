@@ -17,4 +17,4 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 3. Petal Length
 4. Petal Width
 
-He also proposed the 
+Fisher was very interesting character. He is seen as one the  
