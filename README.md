@@ -2,7 +2,8 @@
 ## Project submission for Tom Healy 
 ## GMIT HDip in Science in Computing (Data Analysis)
 
-R.A. Fisher's Iris Dataset  [Fisher Iris Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) was used in the his 1936 paper [The use of Multiple Measurements in Taxonomic Problems](http://rcs.chemometrics.ru/Tutorials/classification/Fisher.pdf). The original paper can be found [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x).
+## Background of the dateset
+R.A. Fisher's Iris Dataset AKA Anderson Dataset [Fisher Iris Data Set](https://archive.ics.uci.edu/ml/machine-learning-databases/iris/iris.data) was used in the his 1936 paper [The use of Multiple Measurements in Taxonomic Problems](http://rcs.chemometrics.ru/Tutorials/classification/Fisher.pdf). The original paper can be found [here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1469-1809.1936.tb02137.x).
 
 The resulting analysis done by R.A. Fisher is performed on a dateset that was compiled by  Edgar Anderson in 1935. The iris were The data were taken from the [Gaspe Peninsula](https://goo.gl/maps/yFc3grbU6NN2). The dataset is sometimes called the Anderson data set.
 
