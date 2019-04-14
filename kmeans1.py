@@ -1,7 +1,7 @@
 #Tom Healy 
 #Taken from http://stamfordresearch.com/k-means-clustering-in-python/
 
-#Import the packages you will need:Matplotlib for plottinng, scikitlearn to load the datas
+#Import the packages you will need:Matplotlib for plotting, scikitlearn to load the datas
 import matplotlib.pyplot as plt 
 from sklearn import datasets
 from sklearn.cluster import KMeans
