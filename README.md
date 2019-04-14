@@ -6,13 +6,15 @@ R.A. Fisher's Iris Dataset  [Fisher Iris Data Set](https://archive.ics.uci.edu/m
 
 The resulting analysis done by R.A. Fisher is performed on a dateset that was compiled by  Edgar Anderson in 1935. The iris were The data were taken from the [Gaspe Peninsula](https://goo.gl/maps/yFc3grbU6NN2). The dataset is sometimes called the Anderson data set.
 
-The dataset contains 150 observations of iris flowers. 50 form each type of iris; _iris setosa_, _iris virginica_ and _iris versicolor_. Anderson took the measurement of 4 characterics of the flowers:
+The dataset contains 150 observations of iris flowers. 50 form each type of iris; _iris setosa_, _iris virginica_ and _iris versicolor_.
+
+![alt text](https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg "Iris Pic")
+
+ Anderson took the measurement of 4 characterics of the flowers:
+
 1. Sepal Length
 2. Sepal Width
 3. Petal Length
 4. Petal Width
 
-
-
-![alt text](https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg "Iris Pic")
 He also proposed the 
