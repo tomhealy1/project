@@ -5,44 +5,49 @@ import numpy as np
 
 
 headings = ['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width', 'Species']
-data = pd.read_csv('iris.txt', sep=',', names=headings, header=None)
-print("Here is a read out of all your data: \n", data)
+data1 = pd.read_csv('iris.txt', sep=',', names=headings, header=None)
+print("Here is a read out of all your data: \n", data1)
 
-print()
+#print()
 
-r = data
+r = data1
 
 print(r.describe())
 
+#data2 = data1[['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width']]
 
-x = pd.Series(data)
-print("Here are the headline details of column 1: \n", x.describe(include=[0]))
-print("Here are the headline details of column 2: \n", x.describe(include=[1]))
-print("Here are the headline details of column 3: \n", x.describe(include=[2]))
-print("Here are the headline details of column 4: \n", x.describe(include=[3]))
+x = pd.DataFrame(data1)
+
+index = x.index
+columns1=x.columns
+print(index)
+print(columns1)
+print("Here is the shape of your data", x.shape, "rows and columns respectively.")
+
 
 print("Here are the headline details of all the numeric columns: \n", x.describe())
 
-print("Here what the first 20 items look like: ", data.head(20))
+print("Here what the first 20 items look like: ", data1.head(20))
 
 #Check if the there are missing values
 
 
-data['Sepal Length'].isnull()
+data1['Sepal Length'].isnull()
 
 
-data['Sepal Width'].isnull()
+data1['Sepal Width'].isnull()
 
 
-data['Petal Length'].isnull()
+data1['Petal Length'].isnull()
 
 
-data['Petal Width'].isnull()
+data1['Petal Width'].isnull()
 
 
-data['Species'].isnull()
+data1['Species'].isnull()
 
-print ("Here is the number of missing values in the set:\n",data.isnull().sum())
+
+print ("Here is the number of missing values in the set:\n",data1.isnull().sum())
 
 
 
