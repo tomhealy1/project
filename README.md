@@ -18,6 +18,12 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 3. Petal Length
 4. Petal Width
 
-Fisher was very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
+Fisher was a very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
 
 ## Approach to the project
+I had a look at the previling data science project models, the ones I found most relevant were:
+<ul>
+    <li>CRISP_DM</li>
+    <li>DELTA framework by Tom Davenport</li>
+    <li>KDD Framework </li>
+</ul>
