@@ -32,7 +32,7 @@ After researching the various models, I have decided to apply the CRISP-DM as fa
 The stages are:
 
 1. Business Understanding
-    -In this case, we have been asked to provide analysis on the Iris Data Set
+    <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
 2. Data Understanding
     *This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.
     -What data do we have?
