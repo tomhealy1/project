@@ -31,20 +31,20 @@ After researching the various models, I have decided to apply the CRISP-DM as fa
 
 The stages are:
 <ul>
-    <li>Business Understanding</li>
-        <li>In this case, we have been asked to provide analysis on the Iris Data Set</li>
-        <li>Data Understanding</li>
+    <li>1. Business Understanding</li>
+        <li>-In this case, we have been asked to provide analysis on the Iris Data Set</li>
+        <li>2. Data Understanding</li>
             <li>This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</li> 
             <li>What data do we have?</li>
             <li>What are the summary details of the data</li>
             <li>Exploratory Data Analysis</li>
-        <li>Data Prep</li>
-                <li>    Preparation of the dataset to construct the final data set</li>
-            <li>Data Cleaning</li>
-        <li>Modelling</li>
+        <li>3. Data Prep</li>
+                <li>Preparation of the dataset to construct the final data set</li>
+                <li>Data Cleaning</li>
+        <li>4. Modelling</li>
             <li>Select modelling techniques and apply</li>
             <li>Prediction</li>
-        <li>Evaluation</li>
+        <li>5. Evaluation</li>
             <li>How to evaluate the the model.</li>
             <li>How accurate is the model?</li>
 </ul>
