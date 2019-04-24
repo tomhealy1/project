@@ -29,7 +29,7 @@ I had a look at the preveiling data science project models, the ones I found mos
 </ul>
 After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
 
-The stages in **C** oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
+The stages in **C**ross **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
 
 1. Business Understanding
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
