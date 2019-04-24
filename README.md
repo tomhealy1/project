@@ -21,7 +21,7 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 Fisher was a very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
 
 ## 1.2 Approach to the project
-I had a look at the previling data science project models, the ones I found most relevant were:
+I had a look at the preveiling data science project models, the ones I found most relevant were:
 <ul>
     <li>CRISP-DM</li>
     <li>DELTA framework by Tom Davenport</li>
@@ -29,7 +29,7 @@ I had a look at the previling data science project models, the ones I found most
 </ul>
 After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
 
-The stages are:
+The stages in ***CR*** oss ***I**ndustry ***S***tandard ***P***rocess for ***D***ata ***M***ining   are:
 
 1. Business Understanding
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
