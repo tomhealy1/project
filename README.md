@@ -39,7 +39,7 @@ The stages are:
             <li>What are the summary details of the data</li>
             <li>Exploratory Data Analysis</li>
         <li>Data Prep</li>
-            <li>Preparation of the dataset to construct the final data set</li>
+            <li>* Preparation of the dataset to construct the final data set</li>
             <li>Data Cleaning</li>
         <li>Modelling</li>
             <li>Select modelling techniques and apply</li>
