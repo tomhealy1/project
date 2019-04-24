@@ -34,19 +34,19 @@ The stages are:
 1. Business Understanding
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
 2. Data Understanding
-    <p>This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</p>
-    <p>What data do we have?</p>
-    <p>What are the summary details of the data</p>
-    <p>Exploratory Data Analysis</p>
+    <p>-This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</p>
+    <p>-What data do we have?</p>
+    <p>-What are the summary details of the data</p>
+    <p>-Exploratory Data Analysis</p>
 3. Data Prep
-    <p>Preparation of the dataset to construct the final data set</p>
-    <p>Data Cleaning</p>
+    <p>-Preparation of the dataset to construct the final data set</p>
+    <p>-Data Cleaning</p>
 4. Modelling
-    <p>Select modelling techniques and apply</p>
-    <p>Prediction</p>
+    <p>-Select modelling techniques and apply</p>
+    <p>-Prediction</p>
 5. Evaluation
-    <p>How to evaluate the the model.</p>
-    <p>How accurate is the model?</p>
+    <p>-How to evaluate the the model.</p>
+    <p>-How accurate is the model?</p>
 
 
 
