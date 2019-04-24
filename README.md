@@ -20,12 +20,37 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 
 Fisher was a very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
 
-## Approach to the project
+## 1.2 Approach to the project
 I had a look at the previling data science project models, the ones I found most relevant were:
 <ul>
-    <li>CRISP_DM</li>
+    <li>CRISP-DM</li>
     <li>DELTA framework by Tom Davenport</li>
     <li>KDD Framework </li>
 </ul>
+After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
 
+The stages are:
+<ul>
+    <li>Business Understanding</li>
+        <li>In this case, we have been asked to provide analysis on the Iris Data Set</li>
+        <li>Data Understanding</li>
+            <li>This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</li> 
+            <li>What data do we have?</li>
+            <li>What are the summary details of the data</li>
+            <li>Exploratory Data Analysis</li>
+        <li>Data Prep</li>
+            <li>Preparation of the dataset to construct the final data set</li>
+            <li>Data Cleaning</li>
+        <li>Modelling</li>
+            <li>Select modelling techniques and apply</li>
+            <li>Prediction</li>
+        <li>Evaluation</li>
+            <li>How to evaluate the the model.</li>
+            <li>How accurate is the model?</li>
+
+
+
+
+## References
+[CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
 
