@@ -34,7 +34,7 @@ The stages are:
 1. Business Understanding
     -In this case, we have been asked to provide analysis on the Iris Data Set
 2. Data Understanding
-    -This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.
+    *This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.
     -What data do we have?
     -What are the summary details of the data
     -Exploratory Data Analysis
