@@ -30,24 +30,24 @@ I had a look at the previling data science project models, the ones I found most
 After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
 
 The stages are:
-<ul>
-    <li>1. Business Understanding</li>
-            *In this case, we have been asked to provide analysis on the Iris Data Set
-        <li>2. Data Understanding</li>
+
+    1. Business Understanding
+                *In this case, we have been asked to provide analysis on the Iris Data Set
+    2. Data Understanding
                 *This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.
                 *What data do we have?
-            <li>What are the summary details of the data</li>
-            <li>Exploratory Data Analysis</li>
-        <li>3. Data Prep</li>
-                <li>Preparation of the dataset to construct the final data set</li>
-                <li>Data Cleaning</li>
-        <li>4. Modelling</li>
-            <li>Select modelling techniques and apply</li>
-            <li>Prediction</li>
-        <li>5. Evaluation</li>
-            <li>How to evaluate the the model.</li>
-            <li>How accurate is the model?</li>
-</ul>
+                What are the summary details of the data
+                Exploratory Data Analysis
+    3. Data Prep
+                Preparation of the dataset to construct the final data set
+                Data Cleaning
+    4. Modelling
+                Select modelling techniques and apply
+                Prediction
+    5. Evaluation
+                How to evaluate the the model.
+                How accurate is the model?
+
 
 
 
