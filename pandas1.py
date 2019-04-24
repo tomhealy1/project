@@ -10,8 +10,12 @@ print("Here is a read out of all your data: \n", data)
 
 print()
 
+r = data
 
-x = pd.Series([0,1,2,3])
+print(r.describe())
+
+
+x = pd.Series(data)
 print("Here are the headline details of column 1: \n", x.describe(include=[0]))
 print("Here are the headline details of column 2: \n", x.describe(include=[1]))
 print("Here are the headline details of column 3: \n", x.describe(include=[2]))
