@@ -1,4 +1,4 @@
-
+# Tom Healy 
 #https://stackoverflow.com/questions/43484757/creating-a-3d-scatter-plot-from-a-csv-file
 #https://matplotlib.org/gallery/mplot3d/2dcollections3d.html
 

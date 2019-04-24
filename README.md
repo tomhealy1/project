@@ -1,4 +1,4 @@
-# Project
+# Programming and Scripting Project
 ## Project submission for Tom Healy 
 ## GMIT HDip in Science in Computing (Data Analysis)
 
@@ -27,3 +27,5 @@ I had a look at the previling data science project models, the ones I found most
     <li>DELTA framework by Tom Davenport</li>
     <li>KDD Framework </li>
 </ul>
+
+

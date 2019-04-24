@@ -7,7 +7,7 @@ import numpy as np
 
 df = np.genfromtxt('iris.txt', delimiter=',')
 
-#We are going to show the mean of each column and print to screen
+#We are going to show the mean of each column and print to screen, we use ".round(3)" to round to the third place after the redix or decimal point. This will repeated below.
 meansl=np.mean(df[:,0]).round(3)
 print('The mean sepal length is',meansl)
 meansw=np.mean(df[:,1]).round(3)
@@ -16,6 +16,7 @@ meanpl=np.mean(df[:,2]).round(3)
 print('The mean petal length is',meanpl)
 meanpw=np.mean(df[:,3]).round(3)
 print('The mean petal width is',meanpw)
+#I add a space between the outputs by using the below command, makes it easier to read
 print(' ')
 #We are going to show the max of each column and print to screen
 maxsl=np.max(df[:,0]).round(3)
@@ -26,6 +27,7 @@ maxpl=np.max(df[:,2]).round(3)
 print('The max petal length is',maxpl)
 maxpw=np.max(df[:,3]).round(3)
 print('The max petal width is',maxpw)
+#I add a space between the outputs by using the below command, makes it easier to read
 print(' ')
 
 #We are going to show the min of each column and print to screen
@@ -38,6 +40,7 @@ minpl=np.min(df[:,2]).round(3)
 print('The min petal length is',minpl)
 minpw=np.min(df[:,3]).round(3)
 print('The min petal width is',minpw)
+#I add a space between the outputs by using the below command, makes it easier to read
 print(' ')
 
 exit
