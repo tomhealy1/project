@@ -144,7 +144,12 @@ The histogram is an excellent basic graph to understand the data.
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/hist.png">
 
-Here we have broken the data out in to 4 different histogram. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width.
+Here we have broken the data out in to 4 different histograms. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width. This would suggest that the data is clustered around certain points and is not uniformly distributed.
+
+The final graph we use the box plot.
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/box.png">
 
 
 
