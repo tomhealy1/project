@@ -169,6 +169,16 @@ The final graph may shed some light:
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
 
+Here we can see that our outliers at the top and bottom are both setosas. They are still well with their segments.
+
+We now have good understanding of the data. We know it's shape, summary statistics, overall structure, the data integrity or quality and we can move on to the next stage of the process.
+
+## 3. Data Prep
+
+So we have checked the data for missing values and have mentioned how we would have corrected and filled in the missing values.
+
+## 4. 
+
 
 
 ## References
