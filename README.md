@@ -115,10 +115,10 @@ A Scatterplot is a good place to start. With a scatterplot , we can get good ise
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.png">
 
-We can contract this with the plot showing the ratio of Peatl Length and Petal Width.
+We can contract this with the plot showing the ratio of Petal Length and Petal Width.
 
 <p align="left">
-<img src="https://github.com/tomhealy1/project/blob/master/petal_length_width.png">
+<img src="https://github.com/tomhealy1/project/blob/master/petal_length_petal_width.png">
 
 
 
