@@ -66,11 +66,12 @@ As mentioned earlier, the overall "business problem" is to research, analyse and
 ##3. Data Understanding
 At this stage we are gathering the data, doing some exploratory analysis:
 
-First we loaded the data:
+First we loaded the package we will need and the data:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Load_data.PNG">
 </p>
 
+I played around with opening the file using other means:
 
 
 ## References
