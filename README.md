@@ -141,8 +141,12 @@ The 3dscatter plot can useful for understand data visually in 3 dimensions. When
 
 The histogram is an excellent basic graph to understand the data.
 
-<p align="left">
+<p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/hist.png">
+
+Here we have broken the data out in to 4 different histogram. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width.
+
+
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
