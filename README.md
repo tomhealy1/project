@@ -20,7 +20,19 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 
 Fisher was a very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
 
+The observations recorded on the island have become one of the most popular datasets used in machine learning and data science.
+
 ## 1.2 Approach to the project
+
+In the carrying out of the project I used many resourses and tools. The list of references in contained below and also within the code files where applicable. The tools I used were:
+<ul>
+    <li>Visual Studio Code (IDE)</li>
+    <li>Anaconda3 (Python3)</li>
+    <li>GitHub (Source control and versioning)</li>
+    <li>GMIT Data Analytics Course files</li>
+    <li>Cmder - (Command Line Interface)</li>
+</ul>
+
 I had a look at the preveiling data science project models, the ones I found most relevant were:
 <ul>
     <li>CRISP-DM</li>
@@ -52,7 +64,11 @@ The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata *
 As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, the business case of a project may be to understand or predict churn in our workforce. As the business problem here is pretty well defined wecan move on to the next stage.
 
 ##3. Data Understanding
-At this stage we are gathering the data, doing some exploratory analysis
+At this stage we are gathering the data, doing some exploratory analysis:
+
+First we loaded the data:
+<p align="left">
+<img src=https://github>
 
 
 
