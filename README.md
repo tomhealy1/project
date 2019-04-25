@@ -73,6 +73,9 @@ First we loaded the package we will need and the data:
 
 I played around with opening the file using other means:
 
+<p align="left">
+<img src="https://github.com/tomhealy/project/blob/master/open file 2.PNG">
+
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
