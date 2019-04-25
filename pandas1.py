@@ -10,24 +10,24 @@ print("Here is a read out of all your data: \n", data1)
 
 #print()
 
-r = data1
+#r = data1 Commenting out as not needed
 
-print(r.describe())
+#print("Here ", r.describe()) No longer needed
 
-#data2 = data1[['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width']]
+#data2 = data1[['Sepal Length', 'Sepal Width', 'Petal Length', 'Petal Width']] I comment this out as I did not need it
 
 x = pd.DataFrame(data1)
 
 index = x.index
 columns1=x.columns
-print(index)
+print("Here is some info about the rows",index)
 print(columns1)
 print("Here is the shape of your data", x.shape, "rows and columns respectively.")
 
 
-print("Here are the headline details of all the numeric columns: \n", x.describe())
+print("Here are the headline details of all the numeric columns: \n" ,x.describe())
 
-print("Here what the first 20 items look like: ", data1.head(20))
+print("Here what the first 20 items look like: \n", data1.head(20))
 
 #Check if the there are missing values
 

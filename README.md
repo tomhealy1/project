@@ -76,6 +76,10 @@ I played around with opening the file using other means such as using the ```dat
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/open_file_%202.PNG">
 
+Next we will take a look at the headline stats of the dataset:
+
+
+
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
