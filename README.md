@@ -74,7 +74,7 @@ First we loaded the package we will need and the data:
 I played around with opening the file using other means:
 
 <p align="left">
-<img src="https://github.com/tomhealy1/project/blob/master/open_file_2.PNG">
+<img src="https://github.com/tomhealy1/project/blob/master/open_file_%202.PNG">
 
 
 ## References
