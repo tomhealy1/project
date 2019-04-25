@@ -68,7 +68,8 @@ At this stage we are gathering the data, doing some exploratory analysis:
 
 First we loaded the data:
 <p align="left">
-<img src=https://github>
+<img src="https://github/tomhealy/project/Load_data.PNG">
+</p>
 
 
 
