@@ -132,7 +132,12 @@ We can use a scatter matrix to get an overall impression of the dataset:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/scattermatrix.png">
 
+We have can use more graphs and plots to understand the data better.
 
+The 3dscatter plot can useful for understand data visually in 3 dimensions.
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/3d">
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
