@@ -146,13 +146,31 @@ The histogram is an excellent basic graph to understand the data.
 
 Here we have broken the data out in to 4 different histograms. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width. This would suggest that the data is clustered around certain points and is not uniformly distributed.
 
-The final graph we use the box plot.
+The second last graph we will use is the boxwhisker plot. This is a useful plot for as it display a lot of data. It shows, moving top to bottom:
+
+<ul>
+    <li>Outliers        - Shown by the rings or circles</li>
+    <li>Max             - Indictaed by the top horizontal line connected by a vertical line</li>
+    <li>Upper Quartile  - Indicted by the top of the "box"</li>
+    <li>Median          - Indicted by the line in the middle of the "box"</li>
+    <li>Lower Quartile  - Indicted by the line at the bottom of the "box"</li>
+    <li>Min             - Indicted by the bottom horizontal line connected by a vertical line</li>
+    <li>Outliers        - Lowest valiue outliers</li>
+</ul>
+
 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/box.png">
+
+We can see that we have a few outlier in the Sepal Width box whisker plot. This would be interesting and would prompt question questions about characterics of those observations. Were they incorrectly identified? 
+
+The final graph may shed some light:
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
 
 
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
-
+[Box Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
