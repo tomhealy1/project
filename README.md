@@ -78,6 +78,8 @@ I played around with opening the file using other means such as using the ```dat
 
 Next we will take a look at the headline stats of the dataset:
 
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/headline.PNG">
 
 
 
