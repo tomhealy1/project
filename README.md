@@ -97,7 +97,12 @@ We can also see the:
      <p>7. 75%      - Shows the IQR at 75%</p>
      <p>8. max      - Shows the max values in each column</p>
 
-We also check for missing values:
+And some more info:
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/mean_max_min.PNG">
+
+We also must check for missing values:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/missing_values.PNG">
 
@@ -110,15 +115,17 @@ We can take a look and the raw values also, below are the first 20 values:
 
 Next we will look some visualisations. The use of visualsations can detect patterns and anomolies in the data that would other wise not be readily apparent.
 
-A Scatterplot is a good place to start. With a scatterplot , we can get good isea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width.
+A Scatterplot is a good place to start. With a scatterplot , we can get good isea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width. We can see from the below that data points are very well segmented. The one setosa at co-ords (41, 1) looks like an outlier which could be interesting.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.png">
 
-We can contract this with the plot showing the ratio of Petal Length and Petal Width.
+We can contrast this with the plot showing the ratio of Petal Length and Petal Width.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/petal_length_petal_width.png">
+
+Again the species seem very well segmented. 
 
 
 
