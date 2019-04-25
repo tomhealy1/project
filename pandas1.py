@@ -29,7 +29,7 @@ print("Here are the headline details of all the numeric columns: \n" ,x.describe
 
 print("Here what the first 20 items look like: \n", data1.head(20))
 
-#Check if the there are missing values
+#Check if the there are missing values and sum the totals in the last command
 
 
 data1['Sepal Length'].isnull()

@@ -67,11 +67,16 @@ As mentioned earlier, the overall "business problem" is to research, analyse and
 At this stage we are gathering the data, doing some exploratory analysis:
 
 First we loaded the package we will need and the data:
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/way3.PNG">
+
+I played around with opening the file using other means such as using the ```datasets``` module from the ```sklearn``` package and also using the ```np.genfromtxt(...)``` from the lectures.
+
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Load_data.PNG">
 </p>
 
-I played around with opening the file using other means such as using the ```datasets``` module from the ```sklearn``` package.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/open_file_%202.PNG">
@@ -87,7 +92,7 @@ We can also see the:
      <p>2. mean     - The mean or avg of the values in each column</p>
      <p>3. std      - Shows the standard deviation of the vaules in the column</p>
      <p>4. min      - The minimum values in the each column</p>
-     <p>5. 25%      - Show the IQR at 25%</p>
+     <p>5. 25%      - Shows the IQR at 25%</p>
      <p>6. 50%      - Shows the IQR at 50%</p>
      <p>7. 75%      - Shows the IQR at 75%</p>
      <p>8. max      - Shows the max values in each column</p>
@@ -96,7 +101,12 @@ We also check for missing values:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/missing_values.PNG">
 
-Here we can see that the 
+Here we can see that there are no missing values in the dataset. If we did have missing values we would have to filter out the missing values using the ```numpy``` module ```nan``` . Alternatively, we could have filled in the missing data with a command like ```data1.fillna(0)```
+
+We can take a look and the raw values also, below are the first 20 values:
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/top20.PNG">
 
 
 
