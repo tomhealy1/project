@@ -61,7 +61,7 @@ The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata *
     <p>-How accurate is the model?</p>
 
 ## 2. Business Understanding
-As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, the business case of a project may be to understand or predict churn in our workforce. As the business problem here is pretty well defined wecan move on to the next stage.
+As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, the business case of a project may be to understand or predict churn in our workforce. As the business problem here is pretty well defined we can move on to the next stage.
 
 ## 3. Data Understanding
 At this stage we are gathering the data, doing some exploratory analysis:
@@ -108,6 +108,17 @@ We can take a look and the raw values also, below are the first 20 values:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/top20.PNG">
 
+Next we will look some visualisations. The use of visualsations can detect patterns and anomolies in the data that would other wise not be readily apparent.
+
+A Scatterplot is a good place to start. With a scatterplot , we can get good isea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width.
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.PNG">
+
+We can contract this with the plot showing the ratio of Peatl Length and Petal Width.
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/petal_length_width.PNG">
 
 
 
