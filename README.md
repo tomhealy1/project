@@ -134,10 +134,15 @@ We can use a scatter matrix to get an overall impression of the dataset:
 
 We have can use more graphs and plots to understand the data better.
 
-The 3dscatter plot can useful for understand data visually in 3 dimensions.
+The 3dscatter plot can useful for understand data visually in 3 dimensions. When the code is ran in the terminal, you can rotate the plot and inspect it. 
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/3d.png">
+
+The histogram is an excellent basic graph to understand the data.
+
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/hist.png">
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
