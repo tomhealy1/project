@@ -83,18 +83,20 @@ Next we will take a look at the headline stats of the dataset:
 
 Here we can see the headline details of the set. We can see the set contains 150 row and 5 columns.
 We can also see the:
-    1. counts   - Counts each observation in each column
-    2. mean     - The mean or avg of the values in each column
-    3. std      - Shows the standard deviation of the vaules in the column
-    4. min      - The minimum values in the each column
-    5. 25%      - Show the IQR at 25%
-    6. 50%      - Shows the IQR at 50%
-    7. 75%      - Shows the IQR at 75%
-    8. max      - Shows the max values in each column
+     <p>1. counts   - Counts each observation in each column</p>
+     <p>2. mean     - The mean or avg of the values in each column</p>
+     <p>3. std      - Shows the standard deviation of the vaules in the column</p>
+     <p>4. min      - The minimum values in the each column</p>
+     <p>5. 25%      - Show the IQR at 25%</p>
+     <p>6. 50%      - Shows the IQR at 50%</p>
+     <p>7. 75%      - Shows the IQR at 75%</p>
+     <p>8. max      - Shows the max values in each column</p>
 
 We also check for missing values:
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/missing_values.PNG">
+
+Here we can see that the 
 
 
 
