@@ -113,12 +113,12 @@ Next we will look some visualisations. The use of visualsations can detect patte
 A Scatterplot is a good place to start. With a scatterplot , we can get good isea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width.
 
 <p align="left">
-<img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.PNG">
+<img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.png">
 
 We can contract this with the plot showing the ratio of Peatl Length and Petal Width.
 
 <p align="left">
-<img src="https://github.com/tomhealy1/project/blob/master/petal_length_width.PNG">
+<img src="https://github.com/tomhealy1/project/blob/master/petal_length_width.png">
 
 
 
