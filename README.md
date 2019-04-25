@@ -100,7 +100,7 @@ We can also see the:
 And some more info:
 
 <p align="left">
-<img src="https://github.com/tomhealy1/project/blob/master/mean_max_min.PNG">
+<img src="https://github.com/tomhealy1/project/blob/master/mean_max_mean.PNG">
 
 We also must check for missing values:
 <p align="left">
