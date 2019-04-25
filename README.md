@@ -71,7 +71,7 @@ First we loaded the package we will need and the data:
 <img src="https://github.com/tomhealy1/project/blob/master/Load_data.PNG">
 </p>
 
-I played around with opening the file using other means:
+I played around with opening the file using other means such as using the ```datasets``` module from the ```sklearn``` package.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/open_file_%202.PNG">
