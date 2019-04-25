@@ -127,7 +127,10 @@ We can contrast this with the plot showing the ratio of Petal Length and Petal W
 
 Again the species seem very well segmented. 
 
+We can use a scatter matrix to get an overall impression of the dataset:
 
+<p align="left">
+<img src="https://github.com/tomhealy1/project/blob/master/scattermatrix.png">
 
 
 
