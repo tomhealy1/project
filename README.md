@@ -13,7 +13,7 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 
  Anderson took the measurement of 4 characteristics of the flowers:
 
-<h3>1. Sepal Length</h3>
+<h4>1. Sepal Length</h4>
 ### 2. Sepal Width
 ### 3. Petal Length
 ### 4. Petal Width
