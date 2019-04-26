@@ -208,7 +208,7 @@ So we now have our model but we need to check that it is accurate and precise. F
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/Accuracy.PNG"
 
-We have an accuracy of nearly 90%, not too bad at all.
+<p>We have an accuracy of nearly 90%, not too bad at all.</p>
 
 Next we will use a confusion matrix to understand the number of correctly label model outputs and incorrectly labelled instances.
 
