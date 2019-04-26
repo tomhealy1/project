@@ -41,14 +41,14 @@ I had a look at the preveiling data science project models, the ones I found mos
 </ul>
 After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
 
-
+<p> </p>
 
 The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
 
 1. <strong>Business Understanding</strong>
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
 2. <strong>Data Understanding</strong>
-    <p>-This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</p>
+    <p>-This stage involves initial data collection,understanding data quality problems and some first insights in to the data.</p>
     <p>-What data do we have?</p>
     <p>-What are the summary details of the data</p>
     <p>-Exploratory Data Analysis</p>
@@ -259,3 +259,5 @@ We also applied an unsupervised model to the data called KMeans. KMeans uses the
 
 
 [Box Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
+
+Data Science and Big Data Analytics - 
