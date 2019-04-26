@@ -223,7 +223,7 @@ Next we will use a confusion matrix to understand the number of correctly label 
 
 
 
-
+Confusion Matrix
 
 | Predicted Class     | Real Class         |
 | ----                 | ----                |
