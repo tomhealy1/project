@@ -186,11 +186,15 @@ First we load the data and the packages:
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans1.PNG"
 
+The next picture show the 3 lines of code to create the model. We are basically sayiinng here that the model is a kmeans model with 3 clusters or groups. 
+
+The model then fits the centroids of the cluster around the mean of the groups. Based on that it assigns the data point a color.
+
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG"
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans3.PNG"
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans3.png"
 
 
 
