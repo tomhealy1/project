@@ -43,20 +43,20 @@ After researching the various models, I have decided to apply the CRISP-DM as fa
 
 The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
 
-1. Business Understanding
+1. <strong>Business Understanding</strong>
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
-2. Data Understanding
+2. <strong>Data Understanding</strong>
     <p>-This stage involves initial data collection,understanding data quality problems and  some first insights in to the data.</p>
     <p>-What data do we have?</p>
     <p>-What are the summary details of the data</p>
     <p>-Exploratory Data Analysis</p>
-3. Data Prep
+3. <strong>Data Prep</strong>
     <p>-Preparation of the dataset to construct the final data set</p>
     <p>-Data Cleaning</p>
-4. Modelling
+4. <strong>Modelling</strong>
     <p>-Select modelling techniques and apply</p>
     <p>-Prediction</p>
-5. Evaluation
+5. <strong>Evaluation</strong>
     <p>-How to evaluate the the model.</p>
     <p>-How accurate is the model?</p>
 
@@ -238,6 +238,11 @@ The table above shows that the model:
     <li>correctly identified 48 class 1s but incorrectly classified two class 1s as class 2s</li>
     <li>correctly identifed 36 class 2s but incorrectly classified 14 class 2s as class 1s.</li>
 </ul>
+
+I have incleuded the code to perform Principal Componant Analysis also.
+
+
+## 5. Evaluation
 
 
 
