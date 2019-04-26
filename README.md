@@ -215,6 +215,9 @@ Next we will use a confusion matrix to understand the number of correctly label 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/confusion.PNG"
 
+
+
+
 |                 |Real Class          |
 |Predicted Class  |--------------------|
 |---------------  |  0        1      2 | 
