@@ -201,7 +201,7 @@ Next we will see the classification of the dat from the set compared with what t
 We can see that there is a small error in the colors. We fix that and then re-plot.
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans4.PNG"
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans4.png"
 
 
 
