@@ -203,6 +203,8 @@ We can see that there is a small error in the colors. We fix that and then re-pl
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans4.PNG"
 
+
+
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
 [Box Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
