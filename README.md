@@ -193,11 +193,15 @@ The model then fits the centroids of the cluster around the mean of the groups. 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG"
 
+Next we will see the classification of the dat from the set compared with what the clustering has produced.  
+
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans3.png"
 
+We can see that there is a small error in the colors. We fix that and then re-plot.
 
-
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans4.png"
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
