@@ -24,7 +24,7 @@ The observations recorded on the island have become one of the most popular data
 
 ## 1.2 Approach to the project
 
-In the carrying out of the project I used many resourses and tools. The list of references in contained below and also within the code files where applicable. The tools I used were:
+In carrying out the project, I used many resourses and tools. The list of references is contained below and also within the code files where applicable. The tools I used were:
 <ul>
     <li>Visual Studio Code (IDE)</li>
     <li>Anaconda3 (Python3)</li>
@@ -40,6 +40,8 @@ I had a look at the preveiling data science project models, the ones I found mos
     <li>KDD Framework </li>
 </ul>
 After researching the various models, I have decided to apply the CRISP-DM as far as is practicible.
+
+
 
 The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
 
