@@ -203,6 +203,27 @@ We can see that there is a small error in the colors. We fix that and then re-pl
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans4.png"
 
+So we now have our model but we need to check that it is accurate and precise. For this we will use two tools, the accuracy measure which compares the original values to the model values.
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/Accuracy.PNG"
+
+We have an accuracy of nearly 90%, not too bad at all.
+
+Next we will use a confusion matrix to understand the number of correctly label model outputs and incorrectly labelled instances.
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/confusion.PNG"
+
+|                 |Real Class          |
+|Predicted Class  |0        1        2 | 
+|                0|50       0        0 |
+|                1|0        48       2 |
+|                2| 0       14       36|
+|                 |                    |
+                              
+
+
 
 
 ## References
