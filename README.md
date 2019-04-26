@@ -232,8 +232,12 @@ Confusion Matrix
 |                   2 | 0       14      36 |
                     
 
-
-
+The table above shows that the model:
+<ul>
+    <li>correctly identified all 0 classes as 0 s.</li>
+    <li>correctly identified 48 class 1s but incorrectly classified two class 1s as class 2s</li>
+    <li>correctly identifed 36 class 2s but incorrectly classified 14 class 2s as class 1s.</li>
+</ul>
 
 
 
