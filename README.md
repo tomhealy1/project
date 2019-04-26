@@ -11,12 +11,12 @@ The dataset contains 150 observations of iris flowers. 50 form each type of iris
 
 ![alt text](https://cdn-images-1.medium.com/max/2100/1*2uGt_aWJoBjqF2qTzRc2JQ.jpeg "Iris Pic")
 
- Anderson took the measurement of 4 characterics of the flowers:
+ Anderson took the measurement of 4 characteristics of the flowers:
 
-1. Sepal Length
-2. Sepal Width
-3. Petal Length
-4. Petal Width
+### 1. Sepal Length
+### 2. Sepal Width
+### 3. Petal Length
+### 4. Petal Width
 
 Fisher was a very interesting character. He is seen as one of the founding fathers of statistics. His influence can be seen in areas such as linear discrimant analysis, analysis of variance(ANOVA), hypothesis testing and design of experiments.
 
