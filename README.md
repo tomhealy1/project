@@ -184,7 +184,13 @@ Next we are going to use K-Means Clustering to predict the the classses for our 
 First we load the data and the packages:
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans1.png"
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans1.PNG"
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG"
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/kmeans3.PNG"
 
 
 
