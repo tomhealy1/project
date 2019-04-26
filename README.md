@@ -177,7 +177,11 @@ We now have good understanding of the data. We know it's shape, summary statisti
 
 So we have checked the data for missing values and have mentioned how we would have corrected and filled in the missing values.
 
-## 4. 
+## 4. Modelling
+
+Next we are going to use K-Means Clustering to predict the the classses for our Iris data set. This algorithm is using the mean values of the clusters to identify and segment the class within which the data point belongs. This is an unsupervised method as the inputs are being used to group rather than any intervention being given by us.
+
+
 
 
 

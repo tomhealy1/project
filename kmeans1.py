@@ -1,6 +1,6 @@
 #Tom Healy 
 #Taken from http://stamfordresearch.com/k-means-clustering-in-python/
-
+#Note that this is an unsupervised machine learning as opposed to supervised machine learning
 #Import the packages you will need:Matplotlib for plotting, scikitlearn to load the datas
 import matplotlib.pyplot as plt 
 from sklearn import datasets
@@ -10,17 +10,18 @@ import sklearn.metrics as sm
 import pandas as pd
 import numpy as np 
 
-#the loaded datsets will become the variable iris
+#the loaded datsets will be assigned to the variable iris
 iris = datasets.load_iris()
 #Using Pandas we make a dataframe from the iris data and name the columns
 x = pd.DataFrame(iris.data)
 x.columns = ['Sepal_Length', 'Sepal_Width', 'Petal_Length', 'Petal_Width']
 
-
+#y is equal to the outputs of the model
 y = pd.DataFrame(iris.target)
 y.columns = ['Targets']
 
-#Give the size of the plot you want, added greater dpi for the dots for better visibility
+#Here we are ploting the sepal and petal data
+#Give the size of the plot you want, added greater dpi for the dots for better visibility (bigger dots basically)
 plt.figure(figsize=(8, 18),dpi=200)
 #Add color map to for colors of the dots
 colormap = np.array(['red', 'blue', 'green'])
@@ -34,18 +35,18 @@ plt.scatter(x.Petal_Length, x.Petal_Width, c=colormap[y.Targets], s=40)
 plt.title('Petal')
 
 #Commented out the first plot
-#plt.show()
+plt.show()
 
-#Create the KMean and tell it to fit x
+#Create the KMean and tell it to fit x 
 model =KMeans(n_clusters=3)
 model.fit(x)
 #Let's see what the model thought
-model.labels_
+print(model.labels_)
 
-#Next we plot the actual labels/classes the model came up with against the actual data
+#Next we set the size for the actual labels/classes the model came up with against the actual data
 plt.figure(figsize=(14,7))
  
-# Create a colormap
+# Create a colormap - changed the colors from the original
 colormap = np.array(['red', 'blue', 'green'])
  
 # Plot the Original Classifications
