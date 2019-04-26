@@ -221,6 +221,10 @@ Next we will use a confusion matrix to understand the number of correctly label 
 
 
 
+
+
+
+
 | Predicted Class     | Real Class         |
 | ---                 | ---                |
 |                   0 | 50       0      0  |
