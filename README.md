@@ -162,7 +162,7 @@ The second last graph we will use is the boxwhisker plot. This is a useful plot 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/box.png">
 
-We can see that we have a few outlier in the Sepal Width box whisker plot. This would be interesting and would prompt question questions about characterics of those observations. Were they incorrectly identified? 
+We can see that we have a few outliers in the Sepal Width box whisker plot. This would be interesting and would prompt questions about the characterics of those observations. Were they incorrectly identified? 
 
 The final graph may shed some light:
 
@@ -239,13 +239,21 @@ The table above shows that the model:
     <li>correctly identifed 36 class 2s but incorrectly classified 14 class 2s as class 1s.</li>
 </ul>
 
-I have incleuded the code to perform Principal Componant Analysis also.
+I have included the code to perform Principal Componant Analysis also.
 
 
 ## 5. Evaluation
 
+In the final stage, we would look at the model's performance. The accuracy figure of 89.3% is quite good but another model may have yielded better results. 
 
+We have used Python to understand the details, shape and characteristics of the dataset. We have seen that data points are well segmented regarding their species which makes them a strong candidate for simple machine learning models. We gather the headline details such as the min, average, max, standard deviation (how spreadout the data is) and the inter quartile range. We then checked the data for any missing values and provided means of fixing them. 
+
+Next we viaualised the data using scatterplots, scatter matrices, 3D Scatter plots and histograms. Visualisation of the data can give a greater understanding of the data that summary statistics alone.
+
+We also applied an unsupervised model to the data called KMeans. KMeans uses the average of the clusters (in our case 3) to group the data.
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
+
+
 [Box Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
