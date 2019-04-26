@@ -218,13 +218,19 @@ Next we will use a confusion matrix to understand the number of correctly label 
 
 
 
-|                 |Real Class          |
-|Predicted Class  |--------------------|
-|---------------  |  0        1      2 | 
+|Predicted Class  |Real Class          |
+| --------------- |--------------------|
+|                 |  0        1      2 | 
 |                0|50       0        0 |
 |                1|0        48       2 |
 |                2| 0       14       36|
-|                 |                    |
+
+
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
                     
 
 
