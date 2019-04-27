@@ -33,7 +33,7 @@ In carrying out the project, I used many resourses and tools. The list of refere
     <li>Cmder - (Command Line Interface)</li>
 </ul>
 
-I had a look at the preveiling data science project models, the ones I found most relevant were:
+I wanted to follow a plan and make the project as "real world" as possible so I had a look at the preveiling data science project models, the ones I found most relevant were:
 <ul>
     <li>CRISP-DM</li>
     <li>DELTA framework by Tom Davenport</li>
