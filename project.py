@@ -1,7 +1,7 @@
 #HDip in Computer Science (Data Analysis)
 #Tom Healy
 #Import packages needed
-#This 
+#This script is to provide some stats in an nice format
 import pandas as pd
 import numpy as np
 #Assign txt file to df
