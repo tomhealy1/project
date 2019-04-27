@@ -1,3 +1,6 @@
+#Tom Healy
+#https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues
+
 #import pandas
 #from pandas.plotting import scatter_matrix
 #import matplotlib.pyplot as plt
@@ -10,6 +13,10 @@
 #Call on the scatter_matrix mod in pandas to create a simple scatter matrix 
 #scatter_matrix(df, figsize=None,color=colors,diagonal='hist')
 #plt.show()
+
+#Commenting out the above as the code is shorter and it adds color aligned with the species/names
+
+#Verbatim https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues
 import seaborn as sns
 import matplotlib.pyplot as plt
 sns.set(style="ticks", color_codes=True)
