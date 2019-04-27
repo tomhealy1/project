@@ -1,3 +1,4 @@
+#Tom Healy
 #Adapted from Chris Albon https://chrisalbon.com/machine_learning/linear_regression/linear_regression_using_scikit-learn/
 #Load the libraries we will need
 #This is just to play round with Linear regression more that anything else
@@ -7,7 +8,7 @@ import warnings
 import numpy as np 
 import pandas as pd 
 
-#HE recommends to suppress the warnings 
+#HE (Chris Albon) recommends to suppress the warnings 
 warnings.filterwarnings(action="ignore", module="scipy", message="^internal gelsd")
 
 #Load the data and assign the X and y to the data and target respectively 

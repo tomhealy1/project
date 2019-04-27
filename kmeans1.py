@@ -1,7 +1,7 @@
 #Tom Healy 
 #Taken from http://stamfordresearch.com/k-means-clustering-in-python/
 #Note that this is an unsupervised machine learning as opposed to supervised machine learning
-#Import the packages you will need:Matplotlib for plotting, scikitlearn to load the datas
+#Import the packages you will need:Matplotlib for plotting, scikitlearn to load the data and Kmeans and metrics for performance
 import matplotlib.pyplot as plt 
 from sklearn import datasets
 from sklearn.cluster import KMeans
@@ -37,7 +37,7 @@ plt.title('Petal')
 #Commented out the first plot
 plt.show()
 
-#Create the KMean and tell it to fit x 
+#Create the KMeans model and tell it to fit x 
 model =KMeans(n_clusters=3)
 model.fit(x)
 #Let's see what the model thought
