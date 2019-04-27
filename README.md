@@ -230,10 +230,10 @@ Confusion Matrix
 
 | Predicted Class     | Real Class         |
 | ----                 | ----                |
-|                     | 0       1          2| 
-|                   0 | 50       0      0  |
-|                   1 | 0       48      2  |
-|                   2 | 0       14      36 |
+|                     | 0    -   1  -    2| 
+|                   0 | 50   -    0   -   0  |
+|                   1 | 0    -   48    -  2  |
+|                   2 | 0    -   14    -  36 |
                     
 
 The table above shows that the model:
