@@ -147,18 +147,18 @@ The histogram is an excellent basic graph to understand the data.
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/hist.png">
 
-Here we have broken the data out in to 4 different histograms. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width. This would suggest that the data is clustered around certain points and is not uniformly distributed.
+Here we have broken the data out in to 4 different histograms. We can see from the graphs that there are distinct spikes or groupings in the set when broken down by Sepal Length & Width and Petal Length & Width. This would suggest that the data is clustered around certain points and is not uniformly distributed however this is most likely caused by the different species.
 
 The second last graph we will use is the boxwhisker plot. This is a useful plot for as it display a lot of data. It shows, moving top to bottom:
 
 <ul>
     <li>Outliers        - Shown by the rings or circles</li>
-    <li>Max             - Indictaed by the top horizontal line connected by a vertical line</li>
-    <li>Upper Quartile  - Indicted by the top of the "box"</li>
-    <li>Median          - Indicted by the line in the middle of the "box"</li>
-    <li>Lower Quartile  - Indicted by the line at the bottom of the "box"</li>
-    <li>Min             - Indicted by the bottom horizontal line connected by a vertical line</li>
-    <li>Outliers        - Lowest valiue outliers</li>
+    <li>Max             - Indicated by the top horizontal line connected by a vertical line</li>
+    <li>Upper Quartile  - Indicated by the top of the "box"</li>
+    <li>Median          - Indicated by the line in the middle of the "box"</li>
+    <li>Lower Quartile  - Indicated by the line at the bottom of the "box"</li>
+    <li>Min             - Indicated by the bottom horizontal line connected by a vertical line</li>
+    <li>Outliers        - Lowest value outliers</li>
 </ul>
 
 
@@ -250,6 +250,8 @@ I also added a linear regression model also. Here is the output showing the y in
 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/linear.png"
+
+
 
 ## 5. Evaluation
 
