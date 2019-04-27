@@ -117,7 +117,7 @@ We can take a look and the raw values also, below are the first 20 values:
 
 Next we will look some visualisations. The use of visualsations can detect patterns and anomalies in the data that would otherwise not be readily apparent.
 
-A Scatterplot is a good place to start. With a scatterplot , we can get good idea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width. We can see from the below graphthat data points are very well segmented. The one setosa at co-ords (41, 1) looks like an outlier which could be interesting.
+A Scatterplot is a good place to start. With a scatterplot , we can get good idea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width. We can see from the below graph that data points are very well segmented. The one setosa at co-ords (41, 1) looks like an outlier which could be interesting.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.png">
@@ -129,7 +129,8 @@ We can contrast this with the plot showing the ratio of Petal Length and Petal W
 
 Again the species seem very well segmented. 
 
-We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted while the other categories are less so. We can also see that 
+We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted along the species with not alot of difference in the measurements. We can compare this with the petal width where the observations are more segmented. We can also see that the distribution of the petal width of the setosa is not that distributed widely and so the standard deviation would be small.
+
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/scattermatrix.png">
