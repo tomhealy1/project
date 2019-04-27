@@ -43,12 +43,12 @@ After researching the various models, I have decided to apply the CRISP-DM as fa
 
 <p> </p>
 
-The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining   are:
+The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata **M**ining are:
 
 1. <strong>Business Understanding</strong>
     <p>-In this case, we have been asked to provide analysis on the Iris Data Set</p>
 2. <strong>Data Understanding</strong>
-    <p>-This stage involves initial data collection,understanding data quality problems and some first insights in to the data.</p>
+    <p>-This stage involves initial data collection, understanding data quality problems and some first insights in to the data.</p>
     <p>-What data do we have?</p>
     <p>-What are the summary details of the data</p>
     <p>-Exploratory Data Analysis</p>
@@ -63,7 +63,7 @@ The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata *
     <p>-How accurate is the model?</p>
 
 ## <h3>2. Business Understanding</h3>
-As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, the business case of a project may be to understand or predict churn in our workforce. As the business problem here is pretty well defined we can move on to the next stage.
+As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, this could be any data related task such as understand or predict churn in our workforce. As the business problem here is pretty well defined we can move on to the next stage.
 
 ## <h3>3. Data Understanding</h3>
 At this stage we are gathering the data, doing some exploratory analysis:
@@ -119,7 +119,7 @@ We can take a look and the raw values also, below are the first 20 values:
 
 Next we will look some visualisations. The use of visualsations can detect patterns and anomalies in the data that would otherwise not be readily apparent.
 
-A Scatterplot is a good place to start. With a scatterplot , we can get good idea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width. We can see from the below graph that data points are very well segmented. The one setosa at co-ords (41, 1) looks like an outlier which could be interesting.
+A Scatterplot is a good place to start. With a scatterplot, we can get good idea of the different data points. In the next plot, we can see the ratio of the size of the sepal length to the sepal width. We can see from the below graph that data points are very well segmented. The one setosa at co-ords (41, 1) looks like an outlier which could be interesting.
 
 <p align="left">
 <img src="https://github.com/tomhealy1/project/blob/master/Sepal_Length_Width_Ratio.png">
