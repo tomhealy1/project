@@ -271,6 +271,20 @@ Data Science and Big Data Analytics - Discovering, Analysing, Visualising and Pr
 
 Python for Data Analysis - Data Wrangling with Pandas, Numpy and Ipython , Wes McKinney
 
+Statistics and Machine Learning in Python -Release 0.2 -Edouard Duchesnay - Mar 14, 2019
+
+Python Data Science Handbook by Jake VanderPlas
+
+Mastering Machine Learning with Python in Six Steps A Practical Implementation Guide to Predictive Data Analytics Using Python —Manohar Swamynathan
+
+Hands-On Machine Learning with Scikit-Learn & TensorFlow - CONCEPTS, TOOLS, AND TECHNIQUES TO BUILD INTELLIGENT SYSTEMS
+
+Introduction to Machine Learning with Python A GUIDE FOR DATA SCIENTISTS Andreas C. Müller & Sarah Guido
+
+Python Cookbook 3rd Edition - by David Beazley and Brian K. Jones
+
+An Introduction to Statistical Learning - with application in R ( I used this to understand intercepts and coefficients ) -Gareth James • Daniela Witten • Trevor Hastie
+Robert Tibshirani
 
 
 

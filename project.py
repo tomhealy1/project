@@ -1,6 +1,7 @@
 #HDip in Computer Science (Data Analysis)
 #Tom Healy
 #Import packages needed
+#This 
 import pandas as pd
 import numpy as np
 #Assign txt file to df
@@ -16,7 +17,7 @@ meanpl=np.mean(df[:,2]).round(3)
 print('The mean petal length is',meanpl)
 meanpw=np.mean(df[:,3]).round(3)
 print('The mean petal width is',meanpw)
-#I add a space between the outputs by using the below command, makes it easier to read
+#I added a space between the outputs by using the below command, makes it easier to read
 print(' ')
 #We are going to show the max of each column and print to screen
 maxsl=np.max(df[:,0]).round(3)
