@@ -1,5 +1,6 @@
 #Verbatim- https://scipy-lectures.org/packages/scikit-learn/auto_examples/plot_iris_scatter.html  I changed a few things order of import, color etc
 # Load the data
+#Really like this graph
 from sklearn.datasets import load_iris
 from matplotlib import pyplot as plt
 

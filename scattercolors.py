@@ -1,5 +1,7 @@
+#Tom Healy
 #https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html#basic-plotting-plot
 #Import packages as needed
+#This was an early graph. I did not include as I found better graphs later in the project.
 import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt

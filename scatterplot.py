@@ -1,5 +1,9 @@
+#Tom Healy
 #https://pythonspot.com/matplotlib-scatterplot/
 #In the words of Machivelli, lets get plotting
+
+
+#Commenting out
 #import numpy as np 
 #import matplotlib.pyplot as plt
 #
