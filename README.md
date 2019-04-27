@@ -240,12 +240,16 @@ Confusion Matrix
 The table above shows that the model:
 <ul>
     <li>correctly identified all 0 classes as 0 s.</li>
-    <li>correctly identified 48 class 1s but incorrectly classified two class 1s as class 2s</li>
-    <li>correctly identifed 36 class 2s but incorrectly classified 14 class 2s as class 1s.</li>
+    <li>correctly identified 48 class 1s but incorrectly classified two instances of class 1s as class 2s</li>
+    <li>correctly identifed 36 class 2s but incorrectly classified 14 instances of class 2s as class 1s.</li>
 </ul>
 
 I have included the code to perform Principal Componant Analysis also.
 
+I also added a linear regression model also. Here is the output showing the y intercept and the coeffiecients.
+
+<p align="centre">
+<img src="https://github.com/tomhealy1/project/blob/master/linear.png"
 
 ## 5. Evaluation
 
