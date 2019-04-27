@@ -250,7 +250,7 @@ In the final stage, we would look at the model's performance. The accuracy figur
 
 We have used Python to understand the details, shape and characteristics of the dataset. We have seen that data points are well segmented regarding their species which makes them a strong candidate for simple machine learning models. We gather the headline details such as the min, average, max, standard deviation (how spreadout the data is) and the inter quartile range. We then checked the data for any missing values and provided means of fixing them. 
 
-Next we viaualised the data using scatterplots, scatter matrices, 3D Scatter plots and histograms. Visualisation of the data can give a greater understanding of the data that summary statistics alone.
+Next we visualised the data using scatterplots, scatter matrices, 3D Scatter plots and histograms. Visualisation of the data can give a greater understanding of the data that summary statistics alone.
 
 We also applied an unsupervised model to the data called KMeans. KMeans uses the average of the clusters (in our case 3) to group the data.
 
@@ -260,4 +260,10 @@ We also applied an unsupervised model to the data called KMeans. KMeans uses the
 
 [Box Plot](https://flowingdata.com/2008/02/15/how-to-read-and-use-a-box-and-whisker-plot/)
 
-Data Science and Big Data Analytics - 
+Data Science and Big Data Analytics - Discovering, Analysing, Visualising and Presenting Data
+
+Python for Data Analysis - Data Wrangling with Pandas, Numpy and Ipython , Wes McKinney
+
+
+
+
