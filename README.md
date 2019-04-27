@@ -253,7 +253,7 @@ I also added a linear regression model also. Here is the output showing the y in
 
 
 
-## <h4>5. Evaluation</h4>
+## <h3>5. Evaluation</h3>
 
 In the final stage, we would look at the model's performance. The accuracy figure of 89.3% is quite good but another model may have yielded better results. 
 
