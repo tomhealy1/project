@@ -129,7 +129,7 @@ We can contrast this with the plot showing the ratio of Petal Length and Petal W
 
 Again the species seem very well segmented. 
 
-We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted along the species with not alot of difference in the measurements. We can compare this with the petal width where the observations are more segmented. We can also see that the distribution of the petal width of the setosa is not that distributed widely and so the standard deviation would be small.
+We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted along the species with not alot of difference in the measurements. We can compare this with the petal width where the observations are more segmented. We can also see that the distribution of the petal width of the setosa is not that distributed widely and so the standard deviation (how spread out the data is) would be small.
 
 
 <p align="left">
@@ -230,6 +230,7 @@ Confusion Matrix
 
 | Predicted Class     | Real Class         |
 | ----                 | ----                |
+|                     | 0       1          2| 
 |                   0 | 50       0      0  |
 |                   1 | 0       48      2  |
 |                   2 | 0       14      36 |
