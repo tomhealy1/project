@@ -62,7 +62,7 @@ The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata *
     <p>-How to evaluate the the model.</p>
     <p>-How accurate is the model?</p>
 
-## 2. Business Understanding
+## <h4>2. Business Understanding</h4>
 As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, the business case of a project may be to understand or predict churn in our workforce. As the business problem here is pretty well defined we can move on to the next stage.
 
 ## 3. Data Understanding
