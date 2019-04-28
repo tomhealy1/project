@@ -31,6 +31,7 @@ In carrying out the project, I used many resourses and tools. The list of refere
     <li>GitHub (Source control and versioning)</li>
     <li>GMIT Data Analytics Course files</li>
     <li>Cmder - (Command Line Interface)</li>
+    <li>Jupyter Notebook - I chose to use VSC as I was more familiar. I plan to use iPython and Jupyter over the Summer to build knowledge.
 </ul>
 
 I wanted to follow a plan and make the project as "real world" as possible so I had a look at the preveiling data science project models, the ones I found most relevant were:
