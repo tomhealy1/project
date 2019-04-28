@@ -63,7 +63,7 @@ The stages in the **CR**oss **I**ndustry **S**tandard **P**rocess for **D**ata *
     <p>-How accurate is the model?</p>
 
 ## <h3>2. Business Understanding</h3>
-As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, this could be any data related task such as understand or predict churn in our workforce. As the business problem here is pretty well defined we can move on to the next stage.
+As mentioned earlier, the overall "business problem" is to research, analyse and summarise the data. In industry, this could be any data related task such as understand or predict churn in our workforce or customers. As the business problem here is pretty well defined we can move on to the next stage.
 
 ## <h3>3. Data Understanding</h3>
 At this stage we are gathering the data, doing some exploratory analysis:
@@ -131,7 +131,7 @@ We can contrast this with the plot showing the ratio of Petal Length and Petal W
 
 Again the species seem very well segmented. 
 
-We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted along the species with not alot of difference in the measurements. We can compare this with the petal width where the observations are more segmented. We can also see that the distribution of the petal width of the setosa is not that distributed widely and so the standard deviation (how spread out the data is) would be small.
+We can use a scatter matrix to get an overall impression of the dataset, We can see that the sepal width is quite normally distrubuted along the species with not a lot of difference in the measurements. We can compare this with the petal width where the observations are more segmented. We can also see that the distribution of the petal width of the setosa is not that distributed widely and so the standard deviation (how spread out the data is) would be small.
 
 
 <p align="left">
@@ -191,14 +191,14 @@ First we load the data and the packages:
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans1.PNG"
 
-The next picture show the 3 lines of code to create the model. We are basically sayiinng here that the model is a kmeans model with 3 clusters or groups. 
+The next picture shows the 3 lines of code needed to create the model. We are basically saying here that the model is a kmeans model with 3 clusters or groups. 
 
-The model then fits the centroids of the cluster around the mean of the groups. Based on that it assigns the data point a color.
+The model then fits the centroids of the cluster around the mean of the groups. Based on that it assigns the data point a color within those groups.
 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG"
 
-Next we will see the classification of the dat from the set compared with what the clustering has produced.  
+Next we will see the classification of the data from the set compared with what the clustering has produced.  
 
 <p align="centre">
 <img src="https://github.com/tomhealy1/project/blob/master/kmeans3.png"
@@ -216,10 +216,13 @@ So we now have our model but we need to check that it is accurate and precise. F
 <p></p>
 <p>We have an accuracy of nearly 90%, not too bad at all.</p>
 
+<p>It is worth noting that another model may have yeilded better results or we could have tune this model
+
 Next we will use a confusion matrix to understand the number of correctly label model outputs and incorrectly labelled instances.
 
-<p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/confusion.PNG"
+<p align="center">
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/confusion.PNG">
+</p>
 
 
 
