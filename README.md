@@ -223,7 +223,7 @@ So we now have our model but we need to check that it is accurate and precise. F
 <p></p>
 <p>We have an accuracy of nearly 90%, not too bad at all.</p>
 
-<p>It is worth noting that another model may have yeilded better results or we could have tune this model
+<p>It is worth noting that another model may have yielded better results or we could have tuned this model to increase accuracy.
 
 Next we will use a confusion matrix to understand the number of correctly label model outputs and incorrectly labelled instances.
 
@@ -269,11 +269,13 @@ I also added a linear regression model also. Here is the output showing the y in
 
 In the final stage, we would look at the model's performance. The accuracy figure of 89.3% is quite good but another model may have yielded better results. 
 
-We have used Python to understand the details, shape and characteristics of the dataset. We have seen that data points are well segmented regarding their species which makes them a strong candidate for simple machine learning models. We gather the headline details such as the min, average, max, standard deviation (how spreadout the data is) and the inter quartile range. We then checked the data for any missing values and provided means of fixing them. 
+We have used Python to understand the details, shape and characteristics of the dataset. We have seen that data points are well segmented regarding their species which makes the dataset a strong candidate for simple machine learning models. We gathered the headline details such as the min, average, max, standard deviation (how spreadout the data is) and the inter quartile range. We then checked the data for any missing values and provided means of fixing them. 
 
 Next we visualised the data using scatterplots, scatter matrices, 3D Scatter plots and histograms. Visualisation of the data can give a greater understanding of the data that summary statistics alone.
 
 We also applied an unsupervised model to the data called KMeans. KMeans uses the average of the clusters (in our case 3) to group the data.
+
+We also provided some information regarding other models, namely, PCA and linear regression.
 
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
