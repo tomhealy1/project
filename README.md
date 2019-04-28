@@ -173,7 +173,7 @@ We can see that we have a few outliers in the Sepal Width box whisker plot. This
 The final graph may shed some light:
 
 <p align="centre">
-<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
+<img width="800" height="700" src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
 </p>
 
 Here we can see that our outliers at the top and bottom are both setosas. They are still well with their segments.
