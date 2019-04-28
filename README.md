@@ -165,7 +165,7 @@ The second last graph we will use is the boxwhisker plot. This is a useful plot 
 
 
 <p align="centre">
-<img width="500" height="600" src="https://github.com/tomhealy1/project/blob/master/box.png">
+<img width="800" height="600" src="https://github.com/tomhealy1/project/blob/master/box.png">
 </p>
 
 We can see that we have a few outliers in the Sepal Width box whisker plot. This would be interesting and would prompt questions about the characterics of those observations. Were they incorrectly identified? 
