@@ -277,6 +277,14 @@ We also applied an unsupervised model to the data called KMeans. KMeans uses the
 
 We also provided some information regarding other models, namely, PCA and linear regression.
 
+P.S. I incorporated the feedback for the earlier assisgnment in this projects such as:
+    <h4>Evidence of learning new knowledge</h4>
+    <h4>Commented out "dead end" or code/approaches that did not work instead of deleting to show other options evaluated</h4>
+    <h4>Developed a plan, I chose CRISP-DM and I started to use HIPO paper charts and white board (€19.99 Aldi a few months ago :-) ) at the end</h4>
+    <h4>I had a lot of the project done early (plot, stats and models) but I commit and push on nearly every edit which inflates my commit/push count</h4>
+    <h4>I tried to comment in simple to understand terms and reword other comment in an approachable way</h4>
+    <h4>I used the Data Science and Big Data Analytics book to map the outline and provide a design, the CRISP-DM model was very helpful also.
+
 ## References
 [CRISP-DM](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.198.5133&rep=rep1&type=pdf)
 
