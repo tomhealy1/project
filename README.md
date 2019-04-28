@@ -165,14 +165,16 @@ The second last graph we will use is the boxwhisker plot. This is a useful plot 
 
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/box.png">
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/box.png">
+</p>
 
 We can see that we have a few outliers in the Sepal Width box whisker plot. This would be interesting and would prompt questions about the characterics of those observations. Were they incorrectly identified? 
 
 The final graph may shed some light:
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/scatterwithlegend.png">
+</p>
 
 Here we can see that our outliers at the top and bottom are both setosas. They are still well with their segments.
 
@@ -189,29 +191,34 @@ Next we are going to use K-Means Clustering to predict the the classses for our 
 First we load the data and the packages:
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans1.PNG"
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/kmeans1.PNG">
+</p>
 
 The next picture shows the 3 lines of code needed to create the model. We are basically saying here that the model is a kmeans model with 3 clusters or groups. 
 
 The model then fits the centroids of the cluster around the mean of the groups. Based on that it assigns the data point a color within those groups.
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG"
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/kmeans2.PNG">
+</p>
 
 Next we will see the classification of the data from the set compared with what the clustering has produced.  
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans3.png"
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/kmeans3.png">
+</p>
 
 We can see that there is a small error in the colors. We fix that and then re-plot.
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/kmeans4.png"
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/kmeans4.png">
+</p>
 
 So we now have our model but we need to check that it is accurate and precise. For this we will use two tools, the accuracy measure which compares the original values to the model values.
 
 <p align="centre">
-<img src="https://github.com/tomhealy1/project/blob/master/Accuracy.PNG"
+<img width="460" height="300" src="https://github.com/tomhealy1/project/blob/master/Accuracy.PNG">
+</p>
 
 <p></p>
 <p>We have an accuracy of nearly 90%, not too bad at all.</p>
