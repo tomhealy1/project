@@ -277,7 +277,7 @@ We also applied an unsupervised model to the data called KMeans. KMeans uses the
 
 We also provided some information regarding other models, namely, PCA and linear regression.
 
-P.S. I incorporated the feedback for the earlier assisgnment in this projects such as:
+,<em>P.S. I incorporated the feedback for the earlier assisgnment in this projects such as:</em>
     <h4>1. Evidence of learning new knowledge</h4>
     <h4>2. Commented out "dead end" or code/approaches that did not work instead of deleting to show other options evaluated</h4>
     <h4>3. Developed a plan, I chose CRISP-DM and I started to use HIPO paper charts and white board (€19.99 Aldi a few months ago :-) ) at the end</h4>
